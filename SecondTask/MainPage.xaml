@@ -62,7 +62,7 @@
         <Button Grid.Column="3" Grid.Row="2" Text="C" BackgroundColor="Orange" Margin="10" Clicked="BtnC"/>
         <Button Grid.Column="4" Grid.Row="2" Text="D"  BackgroundColor="RoyalBlue" Margin="10" Clicked="BtnD"/>
 
-        <Button Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="4" Text="Nullázás" BackgroundColor="Snow" Margin="10" Clicked="ClearBtn"/>
+        <Button Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="4" Text="Nullázás" BackgroundColor="Violet" Margin="10" Clicked="ClearBtn"/>
     </Grid>
 
 </ContentPage>
